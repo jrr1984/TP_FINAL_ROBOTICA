@@ -1,0 +1,1 @@
+/home/jrr/catkin_ws/devel/.private/kfilter/share/kfilter/cmake/kfilterConfig.cmake

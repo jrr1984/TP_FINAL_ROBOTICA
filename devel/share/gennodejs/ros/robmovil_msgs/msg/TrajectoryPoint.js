@@ -1,0 +1,1 @@
+/home/jrr/catkin_ws/devel/.private/robmovil_msgs/share/gennodejs/ros/robmovil_msgs/msg/TrajectoryPoint.js

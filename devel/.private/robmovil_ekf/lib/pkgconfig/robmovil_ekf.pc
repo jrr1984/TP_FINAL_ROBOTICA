@@ -1,0 +1,8 @@
+prefix=/home/jrr/catkin_ws/devel/.private/robmovil_ekf
+
+Name: robmovil_ekf
+Description: Description of robmovil_ekf
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jrr/catkin_ws/devel/.private/robmovil_ekf/lib 
+Requires: roscpp imu_laser_catedra

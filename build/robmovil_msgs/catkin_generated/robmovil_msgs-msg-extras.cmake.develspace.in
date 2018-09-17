@@ -1,0 +1,2 @@
+set(robmovil_msgs_MESSAGE_FILES "/home/jrr/catkin_ws/src/robmovil_msgs/msg/EncoderTicks.msg;/home/jrr/catkin_ws/src/robmovil_msgs/msg/MultiEncoderTicks.msg;/home/jrr/catkin_ws/src/robmovil_msgs/msg/Trajectory.msg;/home/jrr/catkin_ws/src/robmovil_msgs/msg/TrajectoryPoint.msg;/home/jrr/catkin_ws/src/robmovil_msgs/msg/Landmark.msg;/home/jrr/catkin_ws/src/robmovil_msgs/msg/LandmarkArray.msg")
+set(robmovil_msgs_SERVICE_FILES "")

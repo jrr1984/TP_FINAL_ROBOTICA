@@ -1,0 +1,5 @@
+modelo_diferencial_catedra
+/home/jrr/catkin_ws/devel/.private/modelo_diferencial_catedra/share/modelo_diferencial_catedra/cmake/modelo_diferencial_catedraConfig.cmake /home/jrr/catkin_ws/devel/share/modelo_diferencial_catedra/cmake/modelo_diferencial_catedraConfig.cmake
+/home/jrr/catkin_ws/devel/.private/modelo_diferencial_catedra/share/modelo_diferencial_catedra/cmake/modelo_diferencial_catedraConfig-version.cmake /home/jrr/catkin_ws/devel/share/modelo_diferencial_catedra/cmake/modelo_diferencial_catedraConfig-version.cmake
+/home/jrr/catkin_ws/devel/.private/modelo_diferencial_catedra/lib/modelo_diferencial_catedra/pioneer_odometry /home/jrr/catkin_ws/devel/lib/modelo_diferencial_catedra/pioneer_odometry
+/home/jrr/catkin_ws/devel/.private/modelo_diferencial_catedra/lib/pkgconfig/modelo_diferencial_catedra.pc /home/jrr/catkin_ws/devel/lib/pkgconfig/modelo_diferencial_catedra.pc

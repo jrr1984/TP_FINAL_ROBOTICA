@@ -1,0 +1,1 @@
+/home/jrr/catkin_ws/devel/.private/robmovil_msgs/share/robmovil_msgs/cmake/robmovil_msgs-msg-extras.cmake

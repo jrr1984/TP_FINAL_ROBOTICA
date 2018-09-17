@@ -1,0 +1,25 @@
+[35m[1mScanning dependencies of target trajectory_controller[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/trajectory_controller.dir/src/TrajectoryFollower.cpp.o[0m
+[ 42%] Built target trajectory_generator
+[ 57%] [32m[1mLinking CXX shared library /home/jrr/catkin_ws/devel/.private/lazo_abierto/lib/libtrajectory_controller.so[0m
+[ 57%] Built target trajectory_controller
+[35m[1mScanning dependencies of target trajectory_follower[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/trajectory_follower.dir/src/FeedForwardController.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/trajectory_follower.dir/src/trajectory_follower_node.cpp.o[0m
+In file included from [01m[K/home/jrr/catkin_ws/src/lazo_abierto/src/trajectory_follower_node.cpp:2:0[m[K:
+[01m[K/home/jrr/catkin_ws/src/lazo_abierto/include/lazo_abierto/FeedForwardController.h:14:10:[m[K [01;31m[Kerror: [m[K‘[01m[Kbool FeedForwardController::control(const ros::Time&, double&, double&, double&)[m[K’ marked ‘[01m[Koverride[m[K’, but does not override
+     bool control(const ros::Time& t, double& v_x, double& v_y, double& w) override;
+[01;32m[K          ^[m[K
+In file included from [01m[K/home/jrr/catkin_ws/src/lazo_abierto/src/FeedForwardController.cpp:1:0[m[K:
+[01m[K/home/jrr/catkin_ws/src/lazo_abierto/include/lazo_abierto/FeedForwardController.h:14:10:[m[K [01;31m[Kerror: [m[K‘[01m[Kbool FeedForwardController::control(const ros::Time&, double&, double&, double&)[m[K’ marked ‘[01m[Koverride[m[K’, but does not override
+     bool control(const ros::Time& t, double& v_x, double& v_y, double& w) override;
+[01;32m[K          ^[m[K
+CMakeFiles/trajectory_follower.dir/build.make:62: fallo en las instrucciones para el objetivo 'CMakeFiles/trajectory_follower.dir/src/trajectory_follower_node.cpp.o'
+make[2]: *** [CMakeFiles/trajectory_follower.dir/src/trajectory_follower_node.cpp.o] Error 1
+make[2]: *** Se espera a que terminen otras tareas....
+CMakeFiles/trajectory_follower.dir/build.make:86: fallo en las instrucciones para el objetivo 'CMakeFiles/trajectory_follower.dir/src/FeedForwardController.cpp.o'
+make[2]: *** [CMakeFiles/trajectory_follower.dir/src/FeedForwardController.cpp.o] Error 1
+CMakeFiles/Makefile2:67: fallo en las instrucciones para el objetivo 'CMakeFiles/trajectory_follower.dir/all'
+make[1]: *** [CMakeFiles/trajectory_follower.dir/all] Error 2
+Makefile:138: fallo en las instrucciones para el objetivo 'all'
+make: *** [all] Error 2

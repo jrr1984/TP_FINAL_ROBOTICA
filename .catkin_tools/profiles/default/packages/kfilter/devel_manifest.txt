@@ -1,0 +1,5 @@
+kfilter
+/home/jrr/catkin_ws/devel/.private/kfilter/share/kfilter/cmake/kfilterConfig-version.cmake /home/jrr/catkin_ws/devel/share/kfilter/cmake/kfilterConfig-version.cmake
+/home/jrr/catkin_ws/devel/.private/kfilter/share/kfilter/cmake/kfilterConfig.cmake /home/jrr/catkin_ws/devel/share/kfilter/cmake/kfilterConfig.cmake
+/home/jrr/catkin_ws/devel/.private/kfilter/lib/libkfilter.so /home/jrr/catkin_ws/devel/lib/libkfilter.so
+/home/jrr/catkin_ws/devel/.private/kfilter/lib/pkgconfig/kfilter.pc /home/jrr/catkin_ws/devel/lib/pkgconfig/kfilter.pc

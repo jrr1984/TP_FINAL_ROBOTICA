@@ -1,0 +1,7 @@
+In file included from [01m[K/home/jrr/catkin_ws/src/lazo_abierto/src/TrajectoryFollower.cpp:1:0[m[K:
+[01m[K/home/jrr/catkin_ws/src/lazo_abierto/include/lazo_abierto/TrajectoryFollower.h:23:80:[m[K [01;31m[Kerror: [m[KISO C++ forbids declaration of ‘[01m[Kcontrol[m[K’ with no type [-fpermissive]
+     virtual control(const ros::Time& t, double& v_x, double& v_y, double& w_z)=0;
+[01;32m[K                                                                                ^[m[K
+make[2]: *** [CMakeFiles/trajectory_controller.dir/src/TrajectoryFollower.cpp.o] Error 1
+make[1]: *** [CMakeFiles/trajectory_controller.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,4 @@
+Symlinking /home/jrr/catkin_ws/devel/share/kfilter/cmake/kfilterConfig-version.cmake
+Symlinking /home/jrr/catkin_ws/devel/share/kfilter/cmake/kfilterConfig.cmake
+Symlinking /home/jrr/catkin_ws/devel/lib/libkfilter.so
+Symlinking /home/jrr/catkin_ws/devel/lib/pkgconfig/kfilter.pc

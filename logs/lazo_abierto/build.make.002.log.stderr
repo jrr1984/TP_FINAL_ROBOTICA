@@ -1,0 +1,13 @@
+In file included from [01m[K/home/jrr/catkin_ws/src/lazo_abierto/src/FeedForwardController.cpp:1:0[m[K:
+[01m[K/home/jrr/catkin_ws/src/lazo_abierto/include/lazo_abierto/FeedForwardController.h:11:10:[m[K [01;31m[Kerror: [m[K‘[01m[Kbool FeedForwardController::control(const ros::Time&, double&, double&, double&)[m[K’ marked ‘[01m[Koverride[m[K’, but does not override
+     bool control(const ros::Time& t, double& v_x, double& v_y, double& w) override;
+[01;32m[K          ^[m[K
+In file included from [01m[K/home/jrr/catkin_ws/src/lazo_abierto/src/trajectory_follower_node.cpp:2:0[m[K:
+[01m[K/home/jrr/catkin_ws/src/lazo_abierto/include/lazo_abierto/FeedForwardController.h:11:10:[m[K [01;31m[Kerror: [m[K‘[01m[Kbool FeedForwardController::control(const ros::Time&, double&, double&, double&)[m[K’ marked ‘[01m[Koverride[m[K’, but does not override
+     bool control(const ros::Time& t, double& v_x, double& v_y, double& w) override;
+[01;32m[K          ^[m[K
+make[2]: *** [CMakeFiles/trajectory_follower.dir/src/FeedForwardController.cpp.o] Error 1
+make[2]: *** Se espera a que terminen otras tareas....
+make[2]: *** [CMakeFiles/trajectory_follower.dir/src/trajectory_follower_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/trajectory_follower.dir/all] Error 2
+make: *** [all] Error 2

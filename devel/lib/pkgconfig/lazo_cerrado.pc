@@ -1,0 +1,1 @@
+/home/jrr/catkin_ws/devel/.private/lazo_cerrado/lib/pkgconfig/lazo_cerrado.pc

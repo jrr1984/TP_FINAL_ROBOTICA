@@ -1,0 +1,8 @@
+prefix=/home/jrr/catkin_ws/devel/.private/keyboard
+
+Name: keyboard
+Description: Description of keyboard
+Version: 0.1.2
+Cflags: -I/home/jrr/catkin_ws/devel/.private/keyboard/include
+Libs: -L/home/jrr/catkin_ws/devel/.private/keyboard/lib 
+Requires: roscpp std_msgs message_runtime

@@ -1,0 +1,6 @@
+Symlinking /home/jrr/catkin_ws/devel/share/lazo_abierto/cmake/lazo_abiertoConfig-version.cmake
+Symlinking /home/jrr/catkin_ws/devel/share/lazo_abierto/cmake/lazo_abiertoConfig.cmake
+Symlinking /home/jrr/catkin_ws/devel/lib/libtrajectory_controller.so
+Symlinking /home/jrr/catkin_ws/devel/lib/pkgconfig/lazo_abierto.pc
+Symlinking /home/jrr/catkin_ws/devel/lib/lazo_abierto/trajectory_follower
+Symlinking /home/jrr/catkin_ws/devel/lib/lazo_abierto/trajectory_generator
